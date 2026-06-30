@@ -22,18 +22,6 @@ Currently exploring data analysis, predictive modeling, and building practical A
 
 ---
 
-## 🛠 Projects
-
-### [Data Desk](https://github.com/Moltenshoe/Data_Desk)
-Desktop EDA application built with **PySide6** — CSV exploration, statistical analysis, IQR outlier detection, charts (histogram, KDE, scatter, correlation heatmap), and HTML report generation. Tested on 200k+ row datasets.
-**Tech:** Python, PySide6, Pandas, NumPy, Matplotlib
-
-### [Hospital Management System](https://github.com/Moltenshoe/Hospital_management_system)
-Desktop app with role-based access (Admin/Doctor/Receptionist), hashed login, live data polling. Built mainly to learn **GUI development with Qt**.
-**Tech:** Python, PyQt5, SQLite
-
----
-
 ## 💻 Tech Stack
 
 <h3 align="center">Languages</h3>
@@ -72,6 +60,18 @@ Desktop app with role-based access (Admin/Doctor/Receptionist), hashed login, li
 <p align="center">
 <img src="https://img.shields.io/badge/Qt-%2341CD52.svg?style=for-the-badge&logo=qt&logoColor=white"/>
 </p>
+
+---
+
+## 🛠 Projects
+
+### [Data Desk](https://github.com/Moltenshoe/Data_Desk)
+Desktop EDA application built with **PySide6** — CSV exploration, statistical analysis, IQR outlier detection, charts (histogram, KDE, scatter, correlation heatmap), and HTML report generation. Tested on 200k+ row datasets.
+**Tech:** Python, PySide6, Pandas, NumPy, Matplotlib
+
+### [Hospital Management System](https://github.com/Moltenshoe/Hospital_management_system)
+Desktop app with role-based access (Admin/Doctor/Receptionist), hashed login, live data polling. Built mainly to learn **GUI development with Qt**.
+**Tech:** Python, PyQt5, SQLite
 
 ---
 
