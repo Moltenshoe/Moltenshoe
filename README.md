@@ -74,11 +74,3 @@ Desktop app with role-based access (Admin/Doctor/Receptionist), hashed login, li
 **Tech:** Python, PyQt5, SQLite
 
 ---
-
-<p align="center">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Moltenshoe&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180"/>
-<img src="https://streak-stats.demolab.com?user=Moltenshoe&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180"/>
-</p>
-<p align="center">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Moltenshoe&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs"/>
-</p>
