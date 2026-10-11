@@ -1,4 +1,4 @@
- <h2 align="center">Trishanth Kottapalli</h2>
+<h2 align="center">Trishanth Kottapalli</h2>
 
 <p align="center">
   Computer Science and Engineering @ IIIT Naya Raipur
@@ -35,35 +35,32 @@
 
 <h3>Technical Skills</h3>
 
-<b>Languages</b>
-
-<p>Python · C++ · SQL</p>
-
-<b>Data Science & ML</b>
-
-<p>NumPy · Pandas · Matplotlib · Scikit-learn · PyTorch</p>
-
-<b>Databases</b>
-
-<p>SQLite · MySQL</p>
-
-<b>Tools</b>
-
-<p>Git · GitHub · Linux · VS Code · Jupyter</p>
-
-<b>GUI Development</b>
-
-<p>PySide6 · PyQt5</p>
+<table>
+<tr>
+<th>Category</th>
+<th>Skills</th>
+</tr>
+<tr>
+<td>Languages</td>
+<td>Python, SQL</td>
+</tr>
+<tr>
+<td>Libraries</td>
+<td>PyTorch, Seaborn</td>
+</tr>
+<tr>
+<td>Tools</td>
+<td>Git, Linux, VS Code, Jupyter</td>
+</tr>
+</table>
 
 <br>
 
 <h3>Contact</h3>
 
-<p>
 <a href="https://linkedin.com/in/trishanth-kottapalli">LinkedIn</a>
 <br><br>
 <a href="https://github.com/Moltenshoe">GitHub</a>
-</p>
 
 </td>
 </tr>
