@@ -1,48 +1,69 @@
  <h2 align="center">Trishanth Kottapalli</h2>
+
 <p align="center">
-  Computer Science & Engineering @ IIIT Naya Raipur
+  Computer Science and Engineering @ IIIT Naya Raipur
   <br>
   Machine Learning · Data Science · Artificial Intelligence
   <br><br>
-  <a href="https://linkedin.com/in/trishanth-kottapalli">LinkedIn</a> ·
-  <a href="https://github.com/Moltenshoe">GitHub</a>
+  <a href="https://github.com/Moltenshoe">GitHub</a> ·
+  <a href="https://linkedin.com/in/trishanth-kottapalli">LinkedIn</a>
 </p>
 
 <hr>
 
 <table width="100%">
 <tr>
-<td width="60%" valign="top">
+<td width="58%" valign="top">
 
 <h3>Experience</h3>
 
 <p>
-<a href="https://iitp.ac.in/"><b>IIT Patna</b></a><br>
-<code>Aug 2026 – Present</code> · Research Intern<br>
-Research on football tactical analysis and formation-change recommendation, developing data and analysis pipelines using StatsBomb Open Data.
+<a href="https://iitp.ac.in/"><b>IIT Patna</b></a>
 </p>
 
+<p>
+<code>Aug 2026 – Present</code> | Research Intern | Remote
+</p>
+
+<ul>
+<li>Football tactical analysis and formation planning.</li>
+</ul>
+
 </td>
-<td width="40%" valign="top">
+
+<td width="42%" valign="top">
 
 <h3>Technical Skills</h3>
 
-<b>Languages</b><br>
-Python · C++ · SQL
+<b>Languages</b>
 
-<br><br>
-<b>Data Science & ML</b><br>
-NumPy · Pandas · Scikit-learn · PyTorch · Matplotlib
+<p>Python · C++ · SQL</p>
 
-<br><br>
-<b>Tools & Databases</b><br>
-Git · GitHub · Linux · SQLite · MySQL
+<b>Data Science & ML</b>
 
-<br><br>
+<p>NumPy · Pandas · Matplotlib · Scikit-learn · PyTorch</p>
+
+<b>Databases</b>
+
+<p>SQLite · MySQL</p>
+
+<b>Tools</b>
+
+<p>Git · GitHub · Linux · VS Code · Jupyter</p>
+
+<b>GUI Development</b>
+
+<p>PySide6 · PyQt5</p>
+
+<br>
+
 <h3>Contact</h3>
 
-<a href="https://linkedin.com/in/trishanth-kottapalli">LinkedIn</a><br><br>
+<p>
+<a href="https://linkedin.com/in/trishanth-kottapalli">LinkedIn</a>
+<br><br>
 <a href="https://github.com/Moltenshoe">GitHub</a>
+</p>
 
 </td>
 </tr>
