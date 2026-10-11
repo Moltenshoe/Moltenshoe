@@ -5,8 +5,6 @@
   <br>
   Machine Learning · Data Science · Artificial Intelligence
   <br><br>
-  <a href="https://github.com/Moltenshoe">GitHub</a> ·
-  <a href="https://linkedin.com/in/trishanth-kottapalli">LinkedIn</a>
 </p>
 
 <hr>
