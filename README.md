@@ -1,39 +1,49 @@
-# Trishanth Kottapalli
-
+ <h2 align="center">Trishanth Kottapalli</h2>
 <p align="center">
-  Computer Science & Engineering Student at IIIT Naya Raipur
+  Computer Science & Engineering @ IIIT Naya Raipur
   <br>
-  <a href="https://linkedin.com/in/trishanth-kottapalli">LinkedIn</a> · <a href="https://github.com/Moltenshoe">GitHub</a>
+  Machine Learning · Data Science · Artificial Intelligence
+  <br><br>
+  <a href="https://linkedin.com/in/trishanth-kottapalli">LinkedIn</a> ·
+  <a href="https://github.com/Moltenshoe">GitHub</a>
 </p>
 
----
+<hr>
 
-## About
+<table width="100%">
+<tr>
+<td width="60%" valign="top">
 
-CSE student interested in Machine Learning, Data Science, and Applied AI, with a focus on data-driven research and predictive modeling.
+<h3>Experience</h3>
 
-## Experience
+<p>
+<a href="https://iitp.ac.in/"><b>IIT Patna</b></a><br>
+<code>Aug 2026 – Present</code> · Research Intern<br>
+Research on football tactical analysis and formation-change recommendation, developing data and analysis pipelines using StatsBomb Open Data.
+</p>
 
-**IIT Patna**  
-*Research Intern · August 2026 – Present*
+</td>
+<td width="40%" valign="top">
 
-- Working on RAMFP / SportsM5, a research project focused on football tactical analysis and formation-change recommendation.
-- Developing data loading, preprocessing, and analysis pipelines using StatsBomb Open Data.
-- Working on formation timelines, pressing metrics (PPDA), team behavior analysis, and statistical evaluation using Difference-in-Differences.
+<h3>Technical Skills</h3>
 
-## Technical Skills
+<b>Languages</b><br>
+Python · C++ · SQL
 
-| Category | Technologies |
-|---|---|
-| Languages | Python, C++, SQL |
-| Data Analysis | NumPy, Pandas, Matplotlib, Seaborn |
-| Machine Learning | Scikit-learn, PyTorch |
-| Databases | SQLite, MySQL |
-| Tools | Git, GitHub, Linux, VS Code, Jupyter |
-| GUI Development | PySide6, PyQt5 |
+<br><br>
+<b>Data Science & ML</b><br>
+NumPy · Pandas · Scikit-learn · PyTorch · Matplotlib
 
-## Contact
+<br><br>
+<b>Tools & Databases</b><br>
+Git · GitHub · Linux · SQLite · MySQL
 
-- **GitHub:** [Moltenshoe](https://github.com/Moltenshoe)
-- **LinkedIn:** [Trishanth Kottapalli](https://linkedin.com/in/trishanth-kottapalli)
+<br><br>
+<h3>Contact</h3>
 
+<a href="https://linkedin.com/in/trishanth-kottapalli">LinkedIn</a><br><br>
+<a href="https://github.com/Moltenshoe">GitHub</a>
+
+</td>
+</tr>
+</table>
